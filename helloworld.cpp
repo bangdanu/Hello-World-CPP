@@ -3,8 +3,8 @@ using namespace std;
 
 int main(){
   cout<<"Hello Dunia!!!"<< endl;
-  cout<<"Nama Saya Tantri Hidayati"<< endl;
-  cout<<"Usia saya 38 tahun";
+  cout<<"Nama Saya Danu Wira Pangestu"<< endl;
+  cout<<"Usia saya 20 tahun";
   return 0;
 
 }
